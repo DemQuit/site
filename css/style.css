@@ -1,0 +1,58 @@
+/*TODO Fonts*/
+
+/*TODO Settings*/
+body {
+
+}
+ul.reset,
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+ins {
+    text-decoration: underline;
+}
+del {
+    text-decoration: line-through;
+}
+/*TODO Classes*/
+.clear {
+    clear: both;
+}
+/*TODO Name*/
+
+/*TODO Name*/
+
+/*TODO Name*/
+
+/*TODO Name*/
+
+/*TODO Name*/
+
+/*TODO Name*/
+
+/*TODO Name*/
+
+/*---------------------------- Other ----------------------------*\
+.other {
+
+	Время и тип анимации
+	
+	-moz-transition: all .25s ease-in-out;
+    -webkit-transition: all .25s ease-in-out;
+    -o-transition: all .25s ease-in-out;
+    -ms-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+	
+	Маска для маштаба изображения с скругленными углами в контейнере
+	
+	-webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);
+}
+\*---------------------------- Other ----------------------------*/
